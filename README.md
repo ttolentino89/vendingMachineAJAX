@@ -17,3 +17,5 @@ Example transaction: user entered the correct amount of money, but the item qty 
 
 In this case, the user opted for a refund. Change is returned in coins and coin amounts (i.e. number of quarters etc.) are displayed.
 
+Note: to run this program, you may need a cross-origin resource sharing extension enabled in your browser. I recommend CORS Everywhere by Spenibus for Firefox which can be downloaded here: 
+https://addons.mozilla.org/en-US/firefox/addon/cors-everywhere/
