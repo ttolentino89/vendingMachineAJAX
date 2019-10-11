@@ -1,0 +1,76 @@
+body {
+  background-image: url("snacks.jpg");
+  /* background-repeat: no-repeat; */
+  background-size: contain;
+  background-attachment: fixed;
+  color: orange;
+}
+
+header {
+  background-color: black;
+  color: gold;
+  opacity: .9;
+  font-family: 'Monoton', cursive;
+  padding-top: 10px;
+}
+
+.btn {
+    margin: 10px;
+}
+
+button {
+  /* margin: auto; */
+  /* align-content: center; */
+  background-color: darkred;
+  opacity: .85;
+  color: yellow;
+  /* border: 5px solid white; */
+}
+
+button:hover {
+  background-color: gold;
+  border: solid 5px;
+  color: darkred;
+  /* opacity: 1; */
+  font-family: Fredoka One, cursive;
+  font-size: 20px;
+}
+
+.vendingItem {
+    /* border: 1px solid black; */
+  padding: 10px; 
+  margin: auto;
+  /* background-color: black;
+  opacity: .85; */
+}
+
+.right-menu{
+  padding-top: 10px;
+  /* padding-bottom: 15px; */
+  /* background-image: url("steel.jpg"); */
+  background-color: black;
+  opacity: .9;
+}
+
+input {
+  width: 90%;
+}
+
+.output{
+  background-color: #86b300;
+  font-family: 'Orbitron', sans-serif;
+  width: 100%;
+}
+
+#balanceOutput, #itemIDOutput{
+  width: 100px;
+}
+
+
+/* #changeOutput{
+  font-family: 'Orbitron', sans-serif;
+} */
+
+
+
+
